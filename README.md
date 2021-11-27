@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 # Layout
-Você pode acompanhar o passo a passo do projeto através do canal do yuoutube Sujeito programador, pelos seguintes links:
+Você pode acompanhar o passo a passo do projeto através do canal do youtube Sujeito programador, pelos seguintes links:
 - [Video 1](https://www.youtube.com/watch?v=cYz4bVvfPVk)
 - [Video 2](https://www.youtube.com/watch?v=CsZbi6kXXxE)
